@@ -7,7 +7,8 @@ nav ul{
     display: flex;
     align-items: center;
     justify-content: space-around;
-
+    background-color: blueviolet;
+    height: 200px;
 }
 nav ul li{
     display: flex;
@@ -18,5 +19,5 @@ nav ul li{
 nav ul li a{
     text-decoration: none;
     font-size: 1.5rem;
-    color:black;
+    color:white;
 }
